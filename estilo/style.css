@@ -1,0 +1,22 @@
+/*RESET*/
+*{padding: 0px;
+margin: 0px;
+font-family:Georgia, 'Times New Roman', Times, serif;}
+
+body{background-color: rgb(44, 44, 184);}
+header{color: white;text-align: center;}
+
+section{background-color: white;
+    color: black;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
+    text-align: center;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+    color: rgb(255, 255, 255);
+}
